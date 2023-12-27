@@ -1,0 +1,10 @@
+Package: ArcR
+Type: Package
+Title: Simplify datascience work.
+Version: 1.0.0
+Author: ODJO Aurel Géoffroy
+Maintainer: The package maintainer <xgeosoft@gmail.com>
+Description: This package contain function which help to produce statistcs analysis easily.
+License: Free
+Encoding: UTF-8
+LazyData: true

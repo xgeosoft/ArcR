@@ -3,7 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 1.0.0
 Authors@R: 
     person("Aurel Géoffroy", "ODJO", , "odjoaurel@gmail.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Tools for descriptive statisics.
 License: MIT + file LICENSE
 Standardisable : FALSE
 Encoding: UTF-8
